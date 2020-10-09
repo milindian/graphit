@@ -1,4 +1,5 @@
 # graphit.py
+Draw a graph, get the coordinates!
 
 This tool provides a GUI for creating a data points directly in a graph and converting that into a range-specified data-set. This script will:
 * Record mouse clicks in a canvas as coordinates
